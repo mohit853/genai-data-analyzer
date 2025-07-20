@@ -1,0 +1,11 @@
+Name,Age,Department,Salary,Id
+Alice,29,Engineering,75000,2
+Bob,34,Marketing,,3
+Charlie,28,,62000,4
+Diana,45,HR,80000,5
+Ethan,,Finance,72000,6
+Fiona,31,Engineering,78000,7
+George,38,Marketing,67000,8
+Hannah,27,HR,69000,9
+Ian,33,,71000,10
+Julia,30,Finance,,11
